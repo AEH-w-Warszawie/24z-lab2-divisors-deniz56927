@@ -151,7 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Divisors.cpp" />
     <ClCompile Include="DivisorsLib.cpp" />
+    <ClCompile Include="task2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Divisors.h" />
